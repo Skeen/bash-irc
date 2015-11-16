@@ -23,3 +23,7 @@ Output is generated to the `logs` subfolder. The main interest is the two messag
 * `send_messages`
 
 The names should be self-documenting.
+
+## Disclaimer
+
+Don't use this for anything! - It's rubbish and written as a groggy wake-up coding project.
